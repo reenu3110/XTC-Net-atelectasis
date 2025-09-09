@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+ Atelectasis     0.9356    1.0000    0.9667       407
+      Normal     1.0000    0.9325    0.9651       415
+
+    accuracy                         0.9659       822
+   macro avg     0.9678    0.9663    0.9659       822
+weighted avg     0.9681    0.9659    0.9659       822
